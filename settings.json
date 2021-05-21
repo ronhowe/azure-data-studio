@@ -1,0 +1,30 @@
+{
+    "datasource.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "C777F06B-202E-4480-B475-FA416154D458"
+        }
+    ],
+    "datasource.connections": [
+        {
+            "options": {
+                "connectionName": "",
+                "server": "DEATHSTAR",
+                "database": "",
+                "authenticationType": "Integrated",
+                "user": "",
+                "password": "",
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "04163e56-602f-4b3c-9c12-5fa120cad389"
+        }
+    ],
+    "workbench.colorTheme": "Default Dark Azure Data Studio",
+    "workbench.enablePreviewFeatures": true,
+    "workbench.startupEditor": "newUntitledFile"
+}
